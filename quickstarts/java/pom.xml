@@ -39,6 +39,7 @@
   <modules>
     <module>camel-cdi</module>
     <module>camel-fabric</module>
+    <module>camel-master</module>
     <module>camel-spring</module>
     <module>cxf-cdi</module>
     <module>simple-mainclass</module>
